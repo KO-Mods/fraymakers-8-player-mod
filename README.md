@@ -52,7 +52,7 @@ Run `START_INSTALLER.bat` again and select:
 
 | Mod version        | Fraymakers version | Status                |
 | ------------------ | -----------------: | --------------------- |
-| TEST v0.2          |             1.10.0 | Tested                |
+| TEST v0.2 - v0.3   |             1.10.0 | Tested                |
 | TEST v0.1          |              0.9.0 | Tested legacy version |
 | Other combinations |     Other versions | Untested              |
 
