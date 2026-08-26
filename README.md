@@ -4,7 +4,7 @@
 
 [![Download Fraymakers 8 Player Mod](https://img.shields.io/badge/Download-Fraymakers%208P%20Mod-2ea44f?style=for-the-badge&logo=github)](https://github.com/KO-Mods/fraymakers-8-player-mod/releases/latest)
 
-**Current version:** TEST v0.2
+**Current version:** TEST v0.3
 **Compatible with:** Fraymakers 1.10.0
 
 Experimental mod that expands Fraymakers local multiplayer beyond the normal 4-player limit, with experimental support for up to 8 players.
@@ -12,7 +12,7 @@ Experimental mod that expands Fraymakers local multiplayer beyond the normal 4-p
 > [!WARNING]
 > This mod is still experimental.
 >
-> TEST v0.2 has been personally tested on Fraymakers 1.10.0.
+> Last Version has been personally tested on Fraymakers 1.10.0.
 >
 > Players using Fraymakers 0.9.0 should download the previous TEST v0.1 release.
 
