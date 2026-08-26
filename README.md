@@ -16,8 +16,6 @@ Experimental mod that expands Fraymakers local multiplayer beyond the normal 4-p
 >
 > Players using Fraymakers 0.9.0 should download the previous TEST v0.1 release.
 
-[Download TEST v0.1 for Fraymakers 0.9.0](https://github.com/KO-Mods/fraymakers-8-player-mod/releases/download/v0.1-test/Fraymakers_8P_TEST_v0.1_COMMUNITY.zip)
-
 ## Current status
 
 * Updated for Fraymakers 1.10.0
