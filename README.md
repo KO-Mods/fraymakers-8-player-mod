@@ -2,7 +2,7 @@
 
 ## Download
 
-[![Download Fraymakers 8 Player Mod](https://github.com/KO-Mods/fraymakers-8-player-mod/releases/latest)
+![Download Fraymakers 8 Player Mod](https://github.com/KO-Mods/fraymakers-8-player-mod/releases/latest)
 
 **Current version:** TEST v0.3
 **Compatible with:** Fraymakers 1.10.0
